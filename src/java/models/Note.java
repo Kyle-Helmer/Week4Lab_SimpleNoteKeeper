@@ -33,4 +33,6 @@ public class Note implements Serializable{
     public void setContent(String content) {
         this.content = content;
     }  
+  
+    
 }

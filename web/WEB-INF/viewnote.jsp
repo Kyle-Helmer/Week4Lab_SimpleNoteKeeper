@@ -10,14 +10,15 @@
     <body>
         
         <h1>Simple Note Keeper</h1>
-        <form method="post" action="note">
+        
         <h2>View Note</h2>
          
-        <p><b>Title:</b>This is the title text place holder</p>
+        <p><b>Title:</b>${note.title}</p>
       
-        <p><b>Contents:</b><br>This is the contents place holder</p>
+        <p><b>Contents:</b><br>${note.content}</p>
+        
         <a href="note?edit">Edit</a>
-        </form>
+
     </body>
     
 </html>
