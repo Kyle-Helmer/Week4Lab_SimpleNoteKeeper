@@ -16,7 +16,7 @@
         <p><b>Title:</b>This is the title text place holder</p>
       
         <p><b>Contents:</b><br>This is the contents place holder</p>
-        <a href="edit">Edit</a>
+        <a href="note?edit">Edit</a>
         </form>
     </body>
     
